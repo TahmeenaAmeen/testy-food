@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    opacity: 0.9;
+}
+
+.orange {
+    color: orangered;
+}
+
+.flexible {
+    display: flex;
+    padding: 2% 4%;
+
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 80%;
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgba(255, 68, 0, 0.664), red);
+    padding: 10px 30px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+    width: 150px;
+
+}
+
+h1 {
+    font-size: 45px;
+    color: rgb(36, 35, 35);
+}
+
+p {
+    font-size: 15px;
+}
+
+.banner {
+    background-image: url(images/bg\ photo.jpg);
+    height: 382px;
+
+}
+
+.image {
+    width: 320px;
+    margin-left: 90px;
+    margin-right: 60px;
+}
+
+
+
+.pic {
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 20px gray;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+.text {
+    text-align: center;
+    padding: 10px 10px;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    color: gainsboro;
+    text-align: center;
+    padding-top: 3px;
+}
+
+#food-color {
+    color: orangered;
+}
+
+#network-color {
+    color: grey;
+}
+
+.radious {
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+    width: 60%;
+
+}
+
+.border {
+    margin: 70px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
